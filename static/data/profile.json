@@ -1,0 +1,178 @@
+{
+	"intro": {
+		"name": "Suthep Pinroj",
+		"nickname": "Kyuu",
+		"phone": "+66845536073",
+		"email": "treewalkr.dev@gmail.com",
+		"github": "treewalkr",
+		"linkedin": "suthep-pinroj-4b7193336",
+		"location": "Bangkok, Thailand",
+		"website": "treewalkr.dev"
+	},
+	"projects": [
+		{
+			"name": "SigGuard SMS",
+			"details": "Android app for secure SMS/notification forwarding with HMAC signature verification.",
+			"technologies": ["Android", "Kotlin", "Jetpack Compose", "Clean Architecture"],
+			"url": "demo-sms-payment.treewalkr.dev",
+			"hide": false
+		},
+		{
+			"name": "fastSlip",
+			"details": "Cross-platform app for merchants to verify customer bank slips via QR code scanning.",
+			"technologies": ["Kotlin Multiplatform (KMP)", "Compose Multiplatform", "Clean Architecture"],
+			"url": "",
+			"hide": false
+		},
+		{
+			"name": "GymTrack",
+			"details": "Personal fitness app for tracking and planning workouts, allowing users to log and review their fitness progress.",
+			"technologies": ["SvelteKit", "Tailwind", "Go", "Fiber", "PostgreSQL", "RabbitMQ", "Microservices"],
+			"url": "gymtrack.treewalkr.dev",
+			"hide": false
+		},
+		{
+			"name": "Multi-Group Telegram Broadcast",
+			"details": "Simple Telegram bot for broadcasting messages to multiple registered groups.",
+			"technologies": ["Python", "Telethon", "SQLite", "Docker", "Github Actions"],
+			"url": "",
+			"hide": false
+		}
+	],
+	"technologies": [
+		{
+			"section": "Languages:",
+			"details": "TypeScript, JavaScript, Go, Android (Kotlin), PHP, Python, Rust"
+		},
+		{
+			"section": "Frontend:",
+			"details": "React, Next.js, SvelteKit, Tailwind"
+		},
+		{
+			"section": "Backend:",
+			"details": "Node.js, Bun, Deno, NestJS, Elysia.js, GraphQL, Gin (Go), Echo, gRPC, FastAPI, axum"
+		},
+		{
+			"section": "Mobile:",
+			"details": "Android (Kotlin), Jetpack Compose, Kotlin Multiplatform (KMP)"
+		},
+		{
+			"section": "Others:",
+			"details": "Docker, Git, Github Actions, GCP, Vercel, Linux, Redis, Elasticsearch, RabbitMQ, Prometheus, Grafana"
+		}
+	],
+	"workExperiences": [
+		{
+			"company": "Allindev",
+			"position": "Senior Software Engineer (Full-stack)",
+			"duration": "2 Years",
+			"period": "Aug 2022 - Aug 2024",
+			"jobs": [
+				{
+					"label": "Microservices Development",
+					"details": [
+						"Participated in architectural design for the microservices migration, with a focus on payment service development.",
+						"Designed and implemented transaction logging to Elasticsearch for comprehensive monitoring and analysis.",
+						"Contributed to the development of deposit functionality within the payment service, enhancing transaction handling and reliability."
+					],
+					"technologies": ["TypeScript", "Go", "Gin", "GORM", "Elasticsearch", "RabbitMQ", "gRPC", "Docker", "Redis", "k8s"]
+				},
+				{
+					"label": "Omnichannel Platform",
+					"details": [
+						"Participated in the architectural design and development of an omnichannel platform for customer support.",
+						"Integrated Line APIs, adding support for quoted replies, chat text messages, and other media, contributing to a more robust messaging experience.",
+						"Developed Go-based workers using message queues for real-time processing, significantly reducing workload and improving response times.",
+						"Developed Omnichannel features, including chat channel management, user permissions, chat panel, and settings."
+					],
+					"technologies": ["Go", "Gin", "GORM", "RabbitMQ", "SvelteKit", "shadcn-svelte", "Tailwind", "Line API", "Websocket", "Docker", "Redis"]
+				},
+				{
+					"label": "PHP Web Development and Tools",
+					"details": [
+						"Developed new features and resolved bugs, improving application functionality while following best coding practices.",
+						"Reduced query latency from seconds to milliseconds through SQL optimization, database indexing, and codebase refactoring, enhancing application performance.",
+						"Implemented rate limiting and caching for API endpoints, reducing server load and improving response times.",
+						"Integrated APIs from multiple banks and payment gateways, ensuring high availability and reliability for payment processing.",
+						"Developed tools for managing multiple web servers, automating deployment and configuration with scripts, Ansible, and Python script."
+					],
+					"technologies": ["PHP", "SQL", "REST APIs", "Docker", "Redis", "Python", "Ansible"]
+				},
+				{
+					"label": "Other Projects and Tools",
+					"details": [
+						"Designed and developed ezFastSMS, a secure Android application (Kotlin, Jetpack Compose, Clean Architecture) that streamlines transaction processing by securely forwarding SMS and notifications.",
+						"Delivered a high-performance and reliable app experience, supporting thousands of daily transactions while maximizing user satisfaction.",
+						"Designed and built an Elysia-based logging service for ezFastSMS, facilitating comprehensive log archiving and analysis for enhanced debugging and system maintenance.",
+						"Authored comprehensive documentation for ezFastSMS, including integration guides for seamless implementation with payment services."
+					],
+					"technologies": ["Android", "Kotlin", "Jetpack Compose", "Elysia"]
+				}
+			]
+		},
+		{
+			"company": "Cryptdegree (Enter to Start)",
+			"position": "Software Engineer",
+			"duration": "2 Years and 7 Months",
+			"period": "Jan 2020 - Aug 2022",
+			"jobs": [
+				{
+					"label": "Algorithmic Trading and Copy-Trade Development",
+					"details": [
+						"Led the development of algorithmic trading bots using Python, automating cryptocurrency trading strategies to capitalize on market opportunities.",
+						"Developed and implemented multiple trading strategies, rigorously backtesting and simulating each strategy to optimize performance and ensure profitability.",
+						"Designed and developed a copy-trade bot integrated with Binance Leaderboard, achieving real-time trade replication with top traders.",
+						"Designed and implemented intuitive GUI interfaces for bot management, enhancing user experience and ease of configuration."
+					],
+					"technologies": ["Python", "Pandas", "Binance API", "Tkinter", "Redis", "RabbitMQ"]
+				},
+				{
+					"label": "Blockchain Applications",
+					"details": [
+						"Developed Layer-2 blockchain applications using Solidity, implementing smart contracts for simple games and asset staking."
+					],
+					"technologies": ["Solidity", "TypeScript", "Ethers.js", "Hardhat", "Web3.js"]
+				}
+			]
+		},
+		{
+			"company": "Freelance",
+			"position": "Full-stack developer",
+			"duration": "2 Years",
+			"period": "2018 - 2020",
+			"jobs": [
+				{
+					"label": "Shopify and PHP Web Development",
+					"details": [
+						"Customized Shopify pages to meet client requirements and implemented responsive design.",
+						"Integrated Shopify REST Admin APIs for product, order, and customer management.",
+						"Optimized back-end processes and database queries, reducing page load times."
+					],
+					"technologies": ["Shopify APIs", "Liquid", "JavaScript", "jQuery", "PHP", "REST APIs"]
+				},
+				{
+					"label": "Web Scraping and Automation",
+					"details": [
+						"Built web scraping tools in Python, streamlining data extraction and processing for e-commerce insights.",
+						"Automated workflows for data extraction and processing."
+					],
+					"technologies": ["Python", "BeautifulSoup", "Scrapy", "Selenium", "Pandas", "Requests"]
+				}
+			]
+		}
+	],
+	"educations": [
+		{
+			"head": "B.Eng. Telecommunication Engineering",
+			"details": "King Mongkut's Institute of Technology Ladkrabang, TH. 2012-2016 (GPAX 3.43)"
+		}
+	],
+	"interests": [
+		"Programming Languages, Functional Programming, Software/Systems Architecture, LLM, Machine Learning, Blockchain Technology",
+		"Photography, Speciality coffee and craft beer industry"
+	],
+	"resumeUrl": {
+		"sourceLink": "https://github.com/treewalkr/resume",
+		"fullVersion": "https://resume.treewalkr.dev"
+	}
+}
