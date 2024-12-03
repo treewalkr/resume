@@ -81,7 +81,7 @@
 					"label": "Omnichannel Platform",
 					"details": [
 						"Participated in the architectural design and development of an omnichannel platform for customer support.",
-						"Contributed to the development of deposit functionality the payment service, enhancing transaction handling and reliability.",
+						"Integrated Line APIs to support quoted replies, media, and a more robust messaging experience.",
 						"Developed Go workers with message queues for real-time processing, improving response times and reducing workload.",
 						"Developed Omnichannel features, including chat channel management, user permissions, chat panel, and settings."
 					],
