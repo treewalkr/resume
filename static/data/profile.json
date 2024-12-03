@@ -7,7 +7,7 @@
 		"github": "treewalkr",
 		"linkedin": "suthep-pinroj-4b7193336",
 		"location": "Bangkok, Thailand",
-		"website": "resume.treewalkr.dev"
+		"website": "treewalkr.dev"
 	},
 	"projects": [
 		{
@@ -73,7 +73,7 @@
 					"details": [
 						"Participated in architectural design for the microservices migration, with a focus on payment service development.",
 						"Designed and implemented transaction logging to Elasticsearch for comprehensive monitoring and analysis.",
-						"Contributed to the development of deposit functionality within the payment service, enhancing transaction handling and reliability."
+						"Contributed to deposit functionality within the payment service, enhancing transaction and reliability."
 					],
 					"technologies": ["TypeScript", "Go", "Gin", "GORM", "Elasticsearch", "RabbitMQ", "gRPC", "Docker", "Redis", "k8s"]
 				},
@@ -81,8 +81,8 @@
 					"label": "Omnichannel Platform",
 					"details": [
 						"Participated in the architectural design and development of an omnichannel platform for customer support.",
-						"Integrated Line APIs, adding support for quoted replies, chat text messages, and other media, contributing to a more robust messaging experience.",
-						"Developed Go-based workers using message queues for real-time processing, significantly reducing workload and improving response times.",
+						"Contributed to the development of deposit functionality the payment service, enhancing transaction handling and reliability.",
+						"Developed Go workers with message queues for real-time processing, improving response times and reducing workload.",
 						"Developed Omnichannel features, including chat channel management, user permissions, chat panel, and settings."
 					],
 					"technologies": ["Go", "Gin", "GORM", "RabbitMQ", "SvelteKit", "shadcn-svelte", "Tailwind", "Line API", "Websocket", "Docker", "Redis"]
@@ -94,7 +94,7 @@
 						"Reduced query latency from seconds to milliseconds through SQL optimization, database indexing, and codebase refactoring, enhancing application performance.",
 						"Implemented rate limiting and caching for API endpoints, reducing server load and improving response times.",
 						"Integrated APIs from multiple banks and payment gateways, ensuring high availability and reliability for payment processing.",
-						"Developed tools for managing multiple web servers, automating deployment and configuration with scripts, Ansible, and Python script."
+						"Developed tools for web server management, using Ansible, Python, and scripting for automated deployment."
 					],
 					"technologies": ["PHP", "SQL", "REST APIs", "Docker", "Redis", "Python", "Ansible"]
 				},
